@@ -9,7 +9,7 @@ The problems solved in this repositry include:
 **1)** *Problem no. 46* **Permutations** - medium  
 **2)** *Problem no. 53* **Maximum Subarray**  
 **3)** *Problem no. 67* **Add Binary**  
-**4)** *Problem no. 100** **Same Tree**  
+**4)** *Problem no. 100* **Same Tree**  
 **5)** *Problem no. 387* **First Unique Character in a String**  
 **6)** *Problem no. 628* **Maximum Product of Three Numbers**  
 **7)** *Problem no. 844* **Backspace String Compare**  
