@@ -18,6 +18,6 @@ The problems solved in this repositry include:
 **10)** *Problem no. 905* **Sort Array By Parity**  
 
 
-## Additional information
+### Additional information
 
 The specific request of the problems can be found on each particular file, along with some comments that help explain the given solution.
